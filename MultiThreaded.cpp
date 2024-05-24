@@ -166,6 +166,5 @@ void* ilkUygunYerlestirmeİsParcacigi(void *arg) {
             }
         }
     }
-
     pthread_exit(NULL);
 }
